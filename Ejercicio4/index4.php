@@ -10,7 +10,7 @@
 	<nav></nav>
 	<aside></aside>
         <section>
- s
+ 
            
         </section>
 	<footer></footer>
